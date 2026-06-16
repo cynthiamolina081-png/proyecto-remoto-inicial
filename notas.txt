@@ -1,1 +1,2 @@
 Notas de desarrollo
+Nueva nota: Configuración de servidor lista.
