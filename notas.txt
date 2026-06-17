@@ -1,2 +1,3 @@
 Notas de desarrollo
 Nueva nota: Configuración de servidor lista.
+Modificación desde copia 1
